@@ -1,0 +1,8 @@
+# default values for blocks
+default height:25 width:50
+
+# block definitions
+bdef symbol:a hit_points:2 fill:image(block_images/sponge_bob.png)
+
+# spacers definitions
+sdef symbol:- width:25

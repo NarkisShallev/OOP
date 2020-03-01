@@ -1,0 +1,6 @@
+#block definitions
+bdef symbol:a width:30 height:50 hit_points:2 fill-2:color(blue) fill-1:color(orange) stroke:color(black)
+bdef symbol:b width:30 height:50 hit_points:1 fill-1:color(yellow) stroke:color(black)
+
+#spacers definitions
+sdef symbol:- width:30
