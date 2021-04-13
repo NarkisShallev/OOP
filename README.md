@@ -2,4 +2,4 @@
 Course in Java programming language - Project 1
 
 
-![alt text](http://url/to/img.png)
+![alt text](https://github.com/NarkisShallev/OOP-Arkanoid-Game/blob/master/2.png)
